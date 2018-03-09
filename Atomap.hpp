@@ -120,7 +120,7 @@ private:
 		return TRUE;
 	};
 
-	static void __declspec(naked) ExportedCodeCaveEnd()
+	static void ExportedCodeCaveEnd()
 	{
 
 	}
